@@ -1,0 +1,3 @@
+[submodule "bitrix"]
+	path = bitrix
+	url = git@github.com:AfifeA/ekBitrix.git
